@@ -1,7 +1,7 @@
 ---
-enable: true
-title: "What Users Are Saying About Hugoplate"
-description: "Don't just take our word for it - hear from some of our satisfied users!  Check out some of our testimonials below to see what others are saying about Hugoplate."
+enable: false
+title: "What people are saying about Faith Asks"
+description: "We love to hear what you think about this site, do drop us a message to let us know if this is helpful"
 
 # Testimonials
 testimonials:

@@ -1,9 +1,9 @@
 ---
-title: "Hey, I am John Doe!"
+title: 'What is "Faith Asks"?'
 meta_title: "About"
-description: "this is meta description"
+description: "About Faith Asks"
 image: "/images/avatar.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+Faith Asks is a website to encourage Christians, those without faith, and those with other faiths, to ask more questions and to see questionning as a normal part of faith and non-faith life.
