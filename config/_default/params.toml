@@ -1,6 +1,6 @@
 #################### default parameters ################################
 # favicon
-favicon = "images/favicon.png"
+favicon = "images/favicon-32.png"
 # logo
 logo = "images/faith-asks-logo.png"
 logo_darkmode = "images/faith-asks-logo-darkmode.png"
