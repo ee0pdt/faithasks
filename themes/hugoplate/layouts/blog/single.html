@@ -13,7 +13,7 @@
             {{ .Title }}
           </h1>
           <ul class="mb-4">
-            <li class="mr-4 inline-block">
+            {{/*  <li class="mr-4 inline-block">
               <a
                 href="{{ `authors/` | relLangURL }}{{ .Params.Author | urlize }}/">
                 <i class="fa-regular fa-circle-user mr-2"></i
@@ -32,7 +32,7 @@
                   {{ end }}
                 </a>
               {{ end }}
-            </li>
+            </li>  */}}
             <li class="mr-4 inline-block">
               <i class="fa-regular fa-clock mr-2"></i>
               {{ time.Format ":date_long" .PublishDate }}
@@ -43,7 +43,7 @@
           </div>
           <div class="row items-start justify-between">
             <div class="lg:col-5 mb-10 flex items-center lg:mb-0">
-              <h5 class="mr-3">{{ i18n "tags" }} :</h5>
+              {{/*  <h5 class="mr-3">{{ i18n "tags" }} :</h5>  */}}
               <ul>
                 {{ $tags:= .Params.tags }}
                 {{ range $i,$p:= $tags }}
@@ -57,9 +57,9 @@
                 {{ end }}
               </ul>
             </div>
-            <div class="lg:col-4 flex items-center">
+            {{/*  <div class="lg:col-4 flex items-center">
               {{ partial "social-share" (dict "Class" "share-icons" "Title" (i18n "share") "Whatsapp" false "Telegram" false) }}
-            </div>
+            </div>  */}}
           </div>
           <!-- comments -->
           {{ if site.DisqusShortname }}
