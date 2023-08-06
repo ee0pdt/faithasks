@@ -2,6 +2,7 @@
 title: "Wondering and Wandering: Embracing the Journey of Inquiry"
 date: 2023-08-04T10:58:43+01:00
 draft: false
+image: "/images/wondering-and-wandering.png"
 ---
 
 For many people today, faith raises big, complex questions. Within certain faith circles, some feel trapped in rigid structures that discourage sincere inquiry. This has contributed to the rise of the “deconstruction” movement, as people break down harmful paradigms. Yet even outside the church, our fragmented postmodern society often lacks space for wrestling with life’s big questions.

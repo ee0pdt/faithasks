@@ -2,7 +2,7 @@
 title: 'What is "Faith Asks"?'
 meta_title: "About"
 description: "About Faith Asks"
-image: "/images/about-image.jpg"
+image: "/images/about-image.png"
 draft: false
 ---
 
